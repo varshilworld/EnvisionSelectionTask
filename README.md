@@ -5,7 +5,6 @@ This project applies two machine learning models — **Logistic Regression** and
 ## 📂 Dataset
 
 - File: `dataset.csv`
-- The dataset is assumed to be **clean** and **balanced**.
 - Target variable: `Class`  
   - `0`: Non-fraudulent  
   - `1`: Fraudulent
